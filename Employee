@@ -5,3 +5,4 @@ String Employeename;
 int departmentid
 int salary;
 }
+void display()
