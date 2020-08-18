@@ -2,5 +2,6 @@ class Employee
 {
 int Empid;
 String Employeename;
+int departmentid
 int salary;
 }
